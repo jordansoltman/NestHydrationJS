@@ -12,6 +12,8 @@
 !/package-lock.json
 !/package.json
 !/README.md
+!/lib/**
+!/lib
 !/src/**
 !/tsconfig.json
 !/tslint.json
